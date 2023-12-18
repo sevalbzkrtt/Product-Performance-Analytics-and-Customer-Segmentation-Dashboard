@@ -1,2 +1,2 @@
 # Product Performance Analytics and Customer Segmentation Dashboard
- Product Performance Analytics Dashboard
+I have created a dashboard where I can individually or collectively select products and view all the details related to sales, shipments, customer acquisition status. It allows me to analyze the sales performance of products by examining new customers, organic customers, or existing customers. Additionally, I can assess the overall customer count. The dashboard provides insights into sales, shipments, and the customer landscape, distinguishing between new, organic, and existing customers, allowing a comprehensive examination of product performance.
